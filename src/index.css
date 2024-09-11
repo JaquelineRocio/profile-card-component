@@ -14,7 +14,6 @@
   --Very-dark-blue: hsl(224, 21%, 14%);
 }
 body {
-  background-image: url("./assets/bg-pattern-bottom.svg");
   background-color: #19a1ad;
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
